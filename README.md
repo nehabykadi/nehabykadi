@@ -20,7 +20,7 @@
 ## 🧠 Tech Stack
 
 **Languages:**  
-🟦 Python · ☕ Java · 💻 C++ · 🕸️ JavaScript · 🐚 Bash  
+🟦 Python · ☕ Java · 💻 C++ · 🕸️ JavaScript · 🐚 Bash  · 🔴 Scala
 
 **Frameworks / Tools:**  
 🚀 React · Node.js · Flask · TypeScript · Express.js · Docker · Git  
@@ -43,9 +43,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🔗 Project 1](#) | Short one-line description | Python, React |
-| [🔗 Project 2](#) | What it does | C++, Flask |
-| [🔗 Project 3](#) | Why it’s cool | JavaScript, Node.js |
+| [🔗 MovieMate](../MovieMate) | Social Media Website for Movie Lovers | Node.js, Express.js, PostgreSQL |
 
 ---
 
