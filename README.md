@@ -28,8 +28,6 @@
 **Databases:**  
 🗄️ PostgreSQL
 
-*(Add or remove sections as needed)*
-
 ---
 
 ## 📈 GitHub Stats
@@ -54,7 +52,7 @@
 ## 🏆 Achievements & Certifications
 
 - 🥇 **[Certification Name]** – *[Issuer]* *(Date)*  
-- 🏅 **[Award / Scholarship]** – *[Organization]*  
+- 🏅 **CU Esteemed Scholars-Sewall Scholarship** – *CU Boulder*  
 - 🧠 **[Competition or Hackathon]** – *[Result / Role]*  
 
 ---
