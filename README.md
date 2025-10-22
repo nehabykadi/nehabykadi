@@ -43,7 +43,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🔗 MovieMate](../MovieMate) | Social Media Website for Movie Lovers | Node.js, Express.js, PostgreSQL |
+| [🔗 MovieMate](https://github.com/nehabykadi/MovieMate) | Social Media Website for Movie Lovers | Node.js, Express.js, PostgreSQL |
 
 ---
 
