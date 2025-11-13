@@ -49,9 +49,8 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **[Certification Name]** – *[Issuer]* *(Date)*  
+- 🥇 **Google Cybsecurity** – *Coursera* *09/25*  
 - 🏅 **CU Esteemed Scholars-Sewall Scholarship** – *CU Boulder*  
-- 🧠 **[Competition or Hackathon]** – *[Result / Role]*  
 
 ---
 
